@@ -1,0 +1,10 @@
+# bloop and metals
+.bloop
+.bsp
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
